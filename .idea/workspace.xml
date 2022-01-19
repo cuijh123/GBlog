@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3ac6f59-8ea3-4151-9d4f-2e39c5171392" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gitalk</find>
+      <find>time</find>
+      <find>zone</find>
+      <find>cloudflare.com</find>
+      <find>jquery</find>
+      <find>cloudflare</find>
+      <find>canvas_nest</find>
+      <find>theme</find>
+      <find>Scheme</find>
+      <find>baidu</find>
+      <find>scrollpercent</find>
+      <find>pace</find>
+      <find>wordcount</find>
+      <find>updated_at</find>
+      <find>jquery.min.js</find>
+      <find>cc-by.svg</find>
+      <find>three</find>
+      <find>github</find>
+      <find>zhaoolee</find>
+      <find>live2d</find>
+      <find>live2d-widget-model-shizuku</find>
+      <find>主人</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>主人zhaoolee</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/themes/next/source/images</dir>
+      <dir>$PROJECT_DIR$/source</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1SoXvjvrOyfHvsPNSwlaaHVxmgE" />
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ac6f59-8ea3-4151-9d4f-2e39c5171392" name="Default" comment="" />
+      <created>1562026857292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562026857292</updated>
+      <workItem from="1562026859985" duration="4848000" />
+      <workItem from="1562033318197" duration="8773000" />
+      <workItem from="1562115221385" duration="5466000" />
+      <workItem from="1572231158262" duration="376000" />
+      <workItem from="1572231573632" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
