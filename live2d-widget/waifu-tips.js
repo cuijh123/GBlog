@@ -29,7 +29,7 @@ function initWidget(waifuPath = "/waifu-tips.json", apiPath = "") {
 	}
 	localStorage.removeItem("waifu-display");
 	sessionStorage.removeItem("waifu-text");
-	$("body").append(`<div id="waifu" v-drag>
+	$("body").append(`<div id="waifu">
 			<div id="waifu-tips"></div>
 			<canvas id="live2d" width="300" height="300"></canvas>
 			<div id="waifu-tool">
